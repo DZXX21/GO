@@ -14,3 +14,7 @@ func main() {
 //Tamsayılar ve değişkenler.
 
 //Boolean'lar, beklediğiniz gibi boole operatörleriyle.
+
+//eweee
+
+//ewqewwq
